@@ -5,5 +5,6 @@ Birth: Jan., 2007
 MBTI Personality: INFP-T(Inaccurate)    
 First-year student at the School of Cyber Engineering, Xidian University   
 Working On: Travellings   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/xiaozonglin/github-readme-stats)
+![Xiaozonglin's GitHub top langs]([https://github.com/xiaozonglin/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)
+
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozonglin&show_icons=true&theme=tokyonight)
